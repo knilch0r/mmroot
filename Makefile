@@ -1,4 +1,4 @@
-obj-m += knilchroot.o
+obj-m += mmroot.o
 
 KBPATH := /lib/modules/$(shell uname -r)/build
 
